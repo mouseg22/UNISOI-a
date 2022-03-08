@@ -1,0 +1,12 @@
+
+.main-btns .btn-2 {
+    background-color: rgb(255, 251, 0);
+    border-color: #001d3d;
+  }
+  .main-btns .btn-2:focus,
+  .main-btns .btn-2:hover,
+  .main-btns .btn-2:active {
+    background-color: #fbff00;
+    border-color: #1a8a03;
+    color: #0a0a0a;
+  }

@@ -1,0 +1,40 @@
+.map-container {
+    overflow: hidden;
+    position: relative;
+    height: 0;
+  }
+  .map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+  .map-container {
+    height: 400px;
+  }
+  .contact-right h6,
+  h5 {
+    color: #000814;
+    font-weight: bold;
+  }
+  .contact-right p {
+    color: #001d3d;
+    font-weight: normal;
+  }
+  .follow-us-paragraph {
+    margin: 1rem auto;
+  }
+  .follow-us-paragraph {
+    color: #001d3d;
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  .icons a {
+    color: #003566;
+  }
+  .icons a:hover,
+  .icons a:active,
+  .icons a:focus {
+    color: #0f0f0f;
+  }
